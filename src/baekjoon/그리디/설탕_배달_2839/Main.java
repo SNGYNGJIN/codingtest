@@ -1,4 +1,4 @@
-package baekjoon.구현.스택_10828;
+package baekjoon.그리디.설탕_배달_2839;
 
 import java.io.*;
 
